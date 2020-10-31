@@ -1,0 +1,28 @@
+{
+    "name": "ekart-api",
+    "version": "1.0.0",
+    "description": "Ekart Unofficial API written in Javascript",
+    "main": "api/index.js",
+    "dependencies": {
+        "html-table-to-json": "^1.0.0",
+        "jsdom": "^16.04.0",
+        "request": "^2.88.2"
+    },
+    "author": "Tuhin Kanti Pal",
+    "license": "Apache-2.0",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/cachecleanerjeet/ekart-api.git"
+    },
+    "keywords": [
+        "ekart",
+        "ekart-api",
+        "free-ekart-api",
+        "nodejs-ekart-api",
+        "ekart-tracking-api"
+    ],
+    "bugs": {
+        "url": "https://github.com/cachecleanerjeet/ekart-api/issues"
+    },
+    "homepage": "https://github.com/cachecleanerjeet/ekart-api#readme"
+}
