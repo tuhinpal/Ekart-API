@@ -9,7 +9,10 @@ https://ekart-api.vercel.app/check?id={tracking-id}
 
 
 ### Make Your Own
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fcachecleanerjeet%2Fekart-api)
+- Fork this Repo
+- Goto <tt>https://vercel.com</tt>
+- Connect with your Forked Repo
+- Deploy
 
 ### Made with 💗 and
 - [NodeJS](https://nodejs.org/ "NodeJS")
