@@ -1,13 +1,7 @@
 {
-    "name": "ekart-api",
-    "version": 2,
     "routes": [{
         "src": "/check",
         "headers": { "cache-control": "no-cache, no-store, must-revalidate", "Access-Control-Allow-Origin": "*" },
         "dest": "/api"
-    }, {
-        "src": "/",
-        "headers": { "cache-control": "no-cache, no-store, must-revalidate", "Access-Control-Allow-Origin": "*" },
-        "dest": "/dist/index.html"
     }]
 }
