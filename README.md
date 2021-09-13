@@ -51,7 +51,6 @@ https://ekart-api.vercel.app/check?id={tracking-id}
   <a href="https://telegram.dog/tprojects">
     <img alt="Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg" />
   </a>
-  
 </p>
 
 
