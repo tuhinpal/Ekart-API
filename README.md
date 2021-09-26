@@ -7,7 +7,7 @@ curl --location --request POST 'https://ekartlogistics.com/ws/getTrackingDetails
 --header 'Content-Type: application/json' \
 --header 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36' \
 --header 'Origin: https://ekartlogistics.com' \
---data-raw '{"trackingId":"FMPC1425604565"}'
+--data-raw '{"trackingId":"YOUR_TRACKING_ID"}'
 ```
 
 <!--
