@@ -1,4 +1,11 @@
-
-<title>Alive | Ekart API</title>
-<p>Server is running</p> API Endpoint:<br>
-<tt>https://ekart-api.vercel.app/check?id={tracking-id}</tt><br><br> A Project by <a href='https://thetuhin.com'>Tuhin</a>
+<p>Ekart directly providing API now. Please follow this CURL request.</p>
+<code>
+  <pre>
+curl --location --request POST 'https://ekartlogistics.com/ws/getTrackingDetails' \
+--header 'Content-Type: application/json' \
+--header 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36' \
+--header 'Origin: https://ekartlogistics.com' \
+--data-raw '{"trackingId":"FMPC1425604565"}'
+    </pre
+  >
+</code>
